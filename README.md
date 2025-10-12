@@ -1,6 +1,6 @@
 ## EasY_HaCk
 1. Hack the World using Termux
-this tool is a developed by sabri.zaki for penetration testing using 
+this tool is developed by sabri.zaki for penetration testing using 
 2. metasploit-framework 
 3. sqlmap 
 4. nmap 
@@ -10,14 +10,32 @@ this tool is a developed by sabri.zaki for penetration testing using
 ## EasY_HaCk is a tool for network scanning and information gathering 
 ## and for exploiting android phones and Windows pcs 
 all that on Termux
-## Installion
-1. `pkg update`
-2. `pkg upgrade`
-3. `pkg install git`
-4. `git clone https://github.com/sabri-zaki/EasY_HaCk`
-5. cd EasY_HaCk/
-6. `chmod +x install.sh`
-7. Type `EasY-HaCk`
+## Installation
+1. ```bash
+   pkg update
+   ```
+2. ```bash
+   pkg upgrade
+   ```
+3. ```bash
+   pkg install git
+   ```
+4. ```bash
+   git clone https://github.com/sabri-zaki/EasY_HaCk
+   ```
+5. ```bash
+   cd EasY_HaCk/
+   ```
+6. ```bash
+   chmod +x install.sh
+   ```
+7. ```bash
+   ./install.sh
+   ```
+8. Type
+   ```bash
+    EasY-HaCk
+   ```
 
 ![](.modules/EasY_HaCk.png)
 
@@ -28,15 +46,13 @@ all that on Termux
 
 {3} Beef-Framework installation 
 
-{4} NGROK installation
+{4} Network scanning using `nmap`
 
-{5} Network scanning using `nmap`
+{5} WEB-HACKS
 
-{6} WEB-HACKS
+{6} PASSWORD CRACK
 
-{7} PASSWORD CRACK
-
-{8} Starting your web server 
+{7} Starting your web server 
 
 ## [UPDATE]
 To update the Tool choose option number `10`
