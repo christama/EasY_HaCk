@@ -25,7 +25,7 @@ echo $W "Installing requirements........"$G
 apt-get install curl -y
 apt-get install tor -y
 apt-get install perl -y
-apt-get install git -y
+apt-get install git -y 
 apt-get install hydra -y
 apt-get install python -y
 apt-get install python2 -y
