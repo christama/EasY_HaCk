@@ -18,7 +18,7 @@ blue='\033[1;34m'
 purple='\033[1;35m'
 reset='\033[0m'
 G='\e[110m'
-G1='\e[101m'
+G1='\e[101m' 
 o='\033[0m'
 #banner
 sleep 0.5
